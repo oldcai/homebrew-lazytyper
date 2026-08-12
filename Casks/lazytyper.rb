@@ -12,6 +12,4 @@ cask "lazytyper" do
   depends_on macos: :sonoma
 
   app "LazyTyper.app"
-
-  uninstall launchctl: "LazyTyper"
 end
