@@ -1,6 +1,6 @@
 cask "lazytyper" do
-  version "1.9.1"
-  sha256 "932323ae4fce7fb11a07c0678c01777cc6295845cb77dde1d8e656aeb400c41d"
+  version "1.9.2"
+  sha256 "aef66c83490d1a076d37865e4c31d7eaac7c48dd52220295a00f10a4451f577a"
 
   url "https://github.com/oldcai/LazyTyper-releases/releases/download/v#{version}/LazyTyper_#{version}_universal.dmg",
       verified: "github.com/oldcai/LazyTyper-releases/"
